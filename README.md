@@ -1,7 +1,7 @@
 
 # Discernment
 
-Given a set of documents, the contents of this repository creates a corpus and makes an attempt to measure how the concept of discernment evolves over time. To that end, there is the briefest of documentation:
+Given a set of documents, the contents of this repository creates a corpus and makes an attempt to measure how the concept of discernment evolves over time. To that end, here is the briefest of documentation:
 
    * originals2txt.sh - extract plain text from a set of configured files
    * list-names.sh - output a list of names associated with each file
@@ -12,6 +12,6 @@ Given a set of documents, the contents of this repository creates a corpus and m
 After all of the above steps have been completed, one can then create a Distant Reader study carrel (data set) from the result using the `rdr build` command.
 
 ---
-<p style='text-align:right'>Eric Lease Morgan &lt;emorgan@nd.edu&gt;<br />
+<p>Eric Lease Morgan &lt;<a href='mailto:emorgan@nd.edu'>emorgan@nd.edu</a>&gt;<br />
 Feburary 20, 2023
 </p>
